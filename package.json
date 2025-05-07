@@ -1,5 +1,5 @@
 {
-  "name": "nestjs-typeorm-spanner-lite",
+  "name": "nestjs-typeorm-spanner",
   "version": "11.0.2",
   "description": "Nest - modern, fast, powerful node.js web framework (@typeorm)",
   "author": "Kamil Mysliwiec",
